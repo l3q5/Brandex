@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Bw Gradual DEMO";
+  src: url("../fonts/BwGradualDEMO-Medium.otf") format("opentype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bw Gradual DEMO";
+  src: url("../fonts/BwGradualDEMO-Light.otf") format("opentype");
+  font-weight: light;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../fonts/IBMPlexSans-Regular.ttf") format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../fonts/IBMPlexSans-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../fonts/IBMPlexSans-Light.ttf") format("truetype");
+  font-weight: light;
+  font-style: normal;
+}
